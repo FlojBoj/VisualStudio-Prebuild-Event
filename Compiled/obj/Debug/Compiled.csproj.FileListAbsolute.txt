@@ -1,0 +1,6 @@
+/Users/filipbursik/Desktop/Compiled/Compiled/bin/Debug/Compiled.exe
+/Users/filipbursik/Desktop/Compiled/Compiled/bin/Debug/Compiled.pdb
+/Users/filipbursik/Desktop/Compiled/Compiled/obj/Debug/Compiled.csproj.AssemblyReference.cache
+/Users/filipbursik/Desktop/Compiled/Compiled/obj/Debug/Compiled.csproj.CoreCompileInputs.cache
+/Users/filipbursik/Desktop/Compiled/Compiled/obj/Debug/Compiled.exe
+/Users/filipbursik/Desktop/Compiled/Compiled/obj/Debug/Compiled.pdb
